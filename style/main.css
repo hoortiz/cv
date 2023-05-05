@@ -1,0 +1,19 @@
+header {
+    background-color: #000000;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    }
+
+li {
+    color: aqua;
+    grid-template-columns: 1fr;    
+    }
+
+  footer {
+    background-color: #000000;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    }
