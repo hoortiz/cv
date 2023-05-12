@@ -11,6 +11,18 @@ li {
     grid-template-columns: 1fr;    
     }
 
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto;
+      background-color: #2196F3;
+      padding: 10px;
+    }
+
+    .grid-row{
+      width: 100%;
+
+    }
+
   footer {
     background-color: #000000;
     padding: 10px;
